@@ -93,7 +93,7 @@ pip install scikit-learn matplotlib
 
 Boxplot comparing classification accuracy of models:
 
-![Model Comparison](https://i.imgur.com/NB3fN28.png)
+<img width="555" height="418" alt="Image" src="https://github.com/user-attachments/assets/46c51f9c-284b-4f40-a2dc-212aad94411f" />
 
 ---
 
