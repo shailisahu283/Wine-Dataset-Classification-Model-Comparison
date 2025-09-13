@@ -103,6 +103,3 @@ Boxplot comparing classification accuracy of models:
 * **UCI Machine Learning Repository** (original source of Wine dataset).
 * Open-source contributors of **Matplotlib** for visualization.
 
----
-
-Would you like me to also **add the actual bar chart of mean accuracies** (so results are easier to compare in the README), or just keep the boxplot image?
